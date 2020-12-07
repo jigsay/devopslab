@@ -1,14 +1,14 @@
 name: .NET Core-Build and Test
 env:
-  registry: openhack8690uru7acr.azurecr.io
-  registryurl: https://openhack8690uru7acr.azurecr.io/
-  staging_url: https://openhack8690uru7poi-staging.azurewebsites.net/api/healthcheck/poi
-  prod_url: https://openhack8690uru7poi.azurewebsites.net/api/healthcheck/poi
+  registry: openhacktjd9tgq8acr.azurecr.io
+  registryurl: https://openhacktjd9tgq8acr.azurecr.io/
+  staging_url: https://openhacktjd9tgq8poi-staging.azurewebsites.net/api/healthcheck/poi
+  prod_url: https://openhacktjd9tgq8poi.azurewebsites.net/api/healthcheck/poi
   repository: devopsoh/api-poi
   docker_path: apis/poi/web
-  webapp_name: openhack8690uru7poi
+  webapp_name: openhacktjd9tgq8poi
   build_name: POI
-  resource_group: openhack8690uru7rg
+  resource_group: openhacktjd9tgq8poi
 
 on:
   push:
