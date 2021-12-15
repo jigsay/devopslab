@@ -1,7 +1,7 @@
 # Project Name
 
 
-The DevOps open hack event is designed to foster learning via implementing DevOps practices with a series of challenge(s) one more change.
+The DevOps open hack event is designed to foster learning via implementing DevOps practices with a series of challenge(s) one more change, and one more.
 
 ## Architecture
 
