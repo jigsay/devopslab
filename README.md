@@ -1,5 +1,7 @@
 # New Project
 
+Updaed on 1st May 2024
+
 The DevOps open hack event is designed to foster learning via implementing DevOps practices with a series of challenge(s) one more change, and one more.
 
 Added new line 4th Capsule UST.
